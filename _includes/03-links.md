@@ -1,1 +1,1 @@
-[GitHub] (https://github.com/Dixie-Saji)
+[GitHub](https://github.com/Dixie-Saji)
