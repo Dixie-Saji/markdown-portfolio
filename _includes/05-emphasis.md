@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**My favourite movies are :**
+- *Gone Girl*
+- *Lion*
+- *The Game*
+- *Sleepless in Seattle*
+
+**I love movies**
